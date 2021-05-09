@@ -1,0 +1,26 @@
+body{text-align: center;}
+.menu{
+    background: green;
+    width:100%;
+    list-style: none;
+    position: fixed;
+    height: 50px;
+}
+.links{
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+#home{
+    margin-top: 100px;
+}
+.img2{
+    height: 200px;
+    width: 200px;
+}
+#myCarousel img{
+    margin-top: 50px;
+    height: 150px;
+}
+    
